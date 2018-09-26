@@ -1,0 +1,22 @@
+{
+  "name": "duoku-activity-master",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtop1/duoku-activity-master.git"
+  },
+  "keywords": [
+    "activity"
+  ],
+  "author": "liutinghai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webtop1/duoku-activity-master/issues"
+  },
+  "homepage": "https://github.com/webtop1/duoku-activity-master#readme"
+}
